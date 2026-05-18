@@ -1,0 +1,7 @@
+name = "ALIGNR BD CLOUDFLARE GEMINI"
+main = "src/index.js"
+compatibility_date = "2026-05-14"
+
+[assets]
+directory = "./"
+binding = "ASSETS"
